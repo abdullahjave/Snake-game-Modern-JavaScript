@@ -137,6 +137,18 @@ snake-game-modern/
 
 ---
 
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎓 **Udemy Certification**: [JavaScript Basics & Advanced Concepts](https://www.udemy.com/certificate/UC-bc05bb68-1693-4748-96b0-e7703188fd10/)  
+- ✅ Built a modern Snake Game with **Phaser.js + Express.js**  
+- ✅ Implemented **progressive difficulty & collision detection**  
+- ✅ Designed a **modern UI with animations, gradients, and responsive design**  
+
+---
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -167,6 +179,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 ### 🌟 **Enjoyed the game? Give it a star!** ⭐
+
+**Certifications:**  
+[![Udemy](https://img.shields.io/badge/Udemy-Certified-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-bc05bb68-1693-4748-96b0-e7703188fd10/)
 
 **Made with ❤️ by [Abdullah Javed](https://github.com/abdullahjave)**
 
