@@ -113,11 +113,8 @@ snake-game-modern/
 
 <div align="center">
 
-### 🖥️ Desktop View
-*Modern glass-morphism design with gradient animations*
+<img width="1891" height="930" alt="image" src="https://github.com/user-attachments/assets/ef487571-aa34-40de-81e9-f757d9b21e86" />
 
-### 📱 Mobile View
-*Fully responsive layout for all devices*
 
 </div>
 
@@ -137,11 +134,6 @@ snake-game-modern/
   - Snake Body: `#45b7d1` (Blue)
   - Apple: `#ff6b6b` (Coral)
   - Background: Gradient from `#667eea` to `#764ba2`
-
-### 📱 **Responsive Features**
-- Adaptive layout for different screen sizes
-- Touch-friendly controls on mobile
-- Optimized performance across devices
 
 ---
 
